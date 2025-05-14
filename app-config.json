@@ -1,6 +1,6 @@
 {
-  "enabled": true,
+  "enabled": false,
   "version": "1.0.0",
   "expiryDate": "2099-12-31T23:59:59Z",
-  "message": "This version of the app is no longer supported. Please update to continue."
+  "message": "I'm working on an update. Please try using the app at a later time. ~Navid"
 }
